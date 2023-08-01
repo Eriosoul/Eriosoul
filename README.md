@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 · 
 <div align="center">
-  <h1 align="center"> Hello, I'm Andrei Back end Developer <a href=""> PORTFOLIO :Hand: </a></h1>
+  <h1 align="center"> Hello, I'm Andrei Back end Developer <a href=""> PORTFOLIO ✌️ </a></h1>
 </div>
