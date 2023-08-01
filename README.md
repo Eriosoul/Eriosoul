@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### About Me
+
+· 
+<div align="center">
+  <h1 align="center"> Hello, I'm Andrei Back end Developer <a href=""> PORTFOLIO :Hand: </a></h1>
+</div>
