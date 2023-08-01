@@ -1,19 +1,4 @@
 <!--
-**Eriosoul/Eriosoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
 **Your GitHub Username/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 Here are some ideas to get you started:
@@ -31,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h1 align="center"> 👋 Hello, I'm Andrei, a Back-end Developer <a href="">PORTFOLIO ✌️</a></h1>
   <br>
-
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   ### About Me
   - 🐍 Python developer
     - Web scraping using BeautifulSoup and Requests libraries.
@@ -56,7 +41,7 @@ Here are some ideas to get you started:
   - 🛠️ Other skills
     - Version control with Git and GitHub.
     - Database management with MySQL and SQLite.
-
+</div>
 <table>
   <tr>
     <td width="50%"></td>
