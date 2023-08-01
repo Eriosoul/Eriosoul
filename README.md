@@ -15,10 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### About Me
-
-· 
 <div align="center">
   <h1 align="center"> Hello, I'm Andrei Back end Developer <a href=""> PORTFOLIO ✌️ </a></h1>
+
+  <br>
+  ### About Me
+  - 🐍 Python developer
+    · I did some web scrapping
+    · I did some personal projects 
+  - ☕ Java developer
+    · I started whit java, i had to learn abou objects in proyect
+    · I had to do an app storage, where u cud buy 
+<table>
+  <tr>
+    <td width="50%"></td>
+      <h3 align="center"> Quizz APP</h3>
+    <div align="center">
+  </tr>
+</table>
 </div>
