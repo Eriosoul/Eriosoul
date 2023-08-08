@@ -51,13 +51,13 @@ Here are some ideas to get you started:
       <td><h3 align="center"> Quizz APP</h3>
         <div align="center">
           <p> A simple app where you have to answer questions, and you will get points</p>
-          <div> <img width="50%" src="https://camo.githubusercontent.com/f438bce7641354cb07539d2f231b9b4e74b1b8202d79d8317de9a8f82db733d9/68747470733a2f2f692e6962622e636f2f344b32793868682f6c6f63616c686f73742d333030302e706e67" /></div>
+          <div> <a href="https://github.com/Eriosoul/quiz_app"><img width="50%" src="https://camo.githubusercontent.com/f438bce7641354cb07539d2f231b9b4e74b1b8202d79d8317de9a8f82db733d9/68747470733a2f2f692e6962622e636f2f344b32793868682f6c6f63616c686f73742d333030302e706e67" /></a></div>
         </div>
       </td>
       <td><h3 align="center"> Jokes APP</h3>
         <div align="center">
           <p> An app that tells you jokes</p>
-          <div> <img width="80%" src="https://example.com/jokes_app_screenshot.png" /></div>
+          <div><a href="https://github.com/Eriosoul/jockes_app"> <img width="80%" src="https://example.com/jokes_app_screenshot.png" /></a></div>
         </div>
       </td>
     </tr>
@@ -66,13 +66,13 @@ Here are some ideas to get you started:
       <td><h3 align="center"> Web Scraping Project</h3>
         <div align="center">
          <p> A web scraping project that extracts data from a website and stores it in a CSV file.</p>
-        <div> <img width="80%" src="https://cdn.mindbowser.com/wp-content/uploads/2020/10/05200951/how-does-this-work-web-scrapping.svg" /></div>
+        <div><a href="https://github.com/Eriosoul/discord_bot_covidapi"> <img width="80%" src="https://cdn.mindbowser.com/wp-content/uploads/2020/10/05200951/how-does-this-work-web-scrapping.svg" /></a></div>
         </div>
       </td>
       <td><h3 align="center"> JavaFX Shopping App</h3>
     <div align="center">
       <p> A JavaFX application that simulates an online shopping platform with user authentication and order management.</p>
-      <div> <img width="80%" src="https://media.cheggcdn.com/media/7f8/7f80e409-f176-4edf-baf4-eb805b29dfe5/phpn55Cdk.png" /></div>
+      <div><a href="https://github.com/Eriosoul/TFG-DAM"> <img width="80%" src="https://media.cheggcdn.com/media/7f8/7f80e409-f176-4edf-baf4-eb805b29dfe5/phpn55Cdk.png" /></a></div>
       </td>
     </tr>
   <tr>
