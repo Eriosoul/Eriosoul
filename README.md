@@ -54,10 +54,10 @@ Here are some ideas to get you started:
           <div> <a href="https://github.com/Eriosoul/quiz_app"><img width="50%" src="https://camo.githubusercontent.com/f438bce7641354cb07539d2f231b9b4e74b1b8202d79d8317de9a8f82db733d9/68747470733a2f2f692e6962622e636f2f344b32793868682f6c6f63616c686f73742d333030302e706e67" /></a></div>
         </div>
       </td>
-      <td><h3 align="center"> Jokes APP</h3>
+      <td><h3 align="center"> Texting reflex</h3>
         <div align="center">
-          <p> An app that tells you jokes</p>
-          <div><a href="https://github.com/Eriosoul/jockes_app"> <img width="80%" src="https://example.com/jokes_app_screenshot.png" /></a></div>
+          <p> First try whit reflex</p>
+          <div><a href="https://github.com/Eriosoul/testing_reflex_python"> <img width="80%" src="https://media.licdn.com/dms/image/D5612AQFNjyEjV-phUA/article-cover_image-shrink_423_752/0/1691502201294?e=1699488000&v=beta&t=K56u1hvrRhvjk4N7CBikPTaeoivvn9wQzwfoFJDPDTk" /></a></div>
         </div>
       </td>
     </tr>
