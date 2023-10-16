@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1 align="center"> 👋 Hello, I'm Andrei, a Back-end Developer <a href="https://eriosoul.github.io/portfolio-Erio/">PORTFOLIO ✌️</a></h1>
+  <h1 align="center"> 👋 Hello, I'm Andrei, a Back-end Developer </h1>
   <br>
   
 <div align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
