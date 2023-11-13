@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  <h2>About Me</h2>
   
   - 🐍 Python developer
-    - Web scraping using BeautifulSoup and Requests libraries.
+    - Web scraping using BeautifulSoup, Selenium and Requests libraries to get data.
     - Personal projects, such as a Quiz App and a Jokes App.
 
   - ☕ Java developer
@@ -41,8 +41,10 @@ Here are some ideas to get you started:
     - Data visualization using Matplotlib and Seaborn.
 
   - 🛠️ Other skills
-    - Version control with Git and GitHub.
+    - Version control with Git, GitHub and Bitbucket.
     - Database management with MySQL and SQLite.
+    - Conecting to the code CRUD.
+    - Not duplicate data.
 </div>
 <br>
 <h2 align="left">Some Projects</h2>
