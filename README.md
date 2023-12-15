@@ -56,10 +56,10 @@ Here are some ideas to get you started:
           <div> <a href="https://github.com/Eriosoul/quiz_app"><img width="50%" src="https://camo.githubusercontent.com/f438bce7641354cb07539d2f231b9b4e74b1b8202d79d8317de9a8f82db733d9/68747470733a2f2f692e6962622e636f2f344b32793868682f6c6f63616c686f73742d333030302e706e67" /></a></div>
         </div>
       </td>
-      <td><h3 align="center"> Texting reflex</h3>
+      <td><h3 align="center">Flet Projects</h3>
         <div align="center">
           <p> First try whit reflex</p>
-          <div><a href="https://github.com/Eriosoul/testing_reflex_python"> <img width="80%" src="https://media.licdn.com/dms/image/D5612AQFNjyEjV-phUA/article-cover_image-shrink_423_752/0/1691502201294?e=1699488000&v=beta&t=K56u1hvrRhvjk4N7CBikPTaeoivvn9wQzwfoFJDPDTk" /></a></div>
+          <div><a href="https://github.com/Eriosoul/flet_projects"> <img width="80%" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/04/logo_Djoi9Av.png" /></a></div>
         </div>
       </td>
     </tr>
