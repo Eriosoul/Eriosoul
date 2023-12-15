@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   
   - 🐍 Python developer
     - Web scraping using BeautifulSoup, Selenium and Requests libraries to get data.
-    - Personal projects, such as a Quiz App and a Jokes App.
+    - Testing the new technologies like Flet and Reflex
+    - Scraping data and saving to a database and checking if data is duplicate
 
   - ☕ Java developer
     - Experience with object-oriented programming and JavaFX.
